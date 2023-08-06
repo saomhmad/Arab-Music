@@ -12,7 +12,7 @@ PM_START_TEXT = """**
 START_TEXT = """
 **- [𓏺𝙎𝙊𝙐𝙍𝘾𝙀 𝐒𝐇𝐀𝐇𝐌](t.me/ql8ql)
 —————————————
-- [𝙗𝙤𝙩 𝙘𝙝𝙖𝙩 𝙢𝙚𝙧𝙤 ](t.me/grey6bot)
+- [𝙗𝙤𝙩 𝙘𝙝𝙖𝙩 𝙢𝙚𝙧𝙤 ](t.me/Toasllabot)
 
 - [𝙨𝙤𝙪𝙧𝙘𝙚 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧](t.me/SH_AH_M)**
 """
