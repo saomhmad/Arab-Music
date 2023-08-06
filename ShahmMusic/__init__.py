@@ -14,7 +14,7 @@ StartTime = time.time()
 logging.basicConfig(
     format="[%(asctime)s - %(levelname)s] - %(name)s - %(message)s",
     datefmt="%d-%b-%y %H:%M:%S",
-    handlers=[logging.FileHandler("fallenlogs.txt"), logging.StreamHandler()],
+    handlers=[logging.FileHandler("Shahmlogs.txt"), logging.StreamHandler()],
     level=logging.INFO,
 )
 logging.getLogger("pyrogram").setLevel(logging.ERROR)
